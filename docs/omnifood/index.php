@@ -447,7 +447,7 @@ I was looking for a quick and easy food delivery service in San Franciso. I trie
         <script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
         <script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.min.js"></script>
         <script src="vendors/js/jquery.waypoints.min.js"></script>
-        <script src="https://maps.google.com/maps/api/js?key=AIzaSyB1kUDXZlUX8Bl5_RLY8bmxW0Yb-tLHDFI"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB1kUDXZlUX8Bl5_RLY8bmxW0Yb-tLHDFI&callback=initMap" async defer></script>
         <script src="resources/js/script.js"></script>
         <script src="vendors/js/gmaps.js"></script>
 
