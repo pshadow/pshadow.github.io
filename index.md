@@ -13,10 +13,10 @@
 
 ### Elm projects:
 * ["Conway's Game of Life" using Elm](docs/gameoflife.html)
-  ** [Source Code](https://github.com/pshadow/elm-conways-game-of-life)
+  * [Source Code](https://github.com/pshadow/elm-conways-game-of-life)
 * ["Lights Out" game using Elm](docs/lightsgame.html)
-  ** [Source Code](https://github.com/pshadow/elm-lights-game)
+  * [Source Code](https://github.com/pshadow/elm-lights-game)
 * ["Drag and Drop" using Elm](docs/dragndrop.html)
-  ** [Source Code](https://github.com/pshadow/elm-drag-n-drop)
+  * [Source Code](https://github.com/pshadow/elm-drag-n-drop)
 * ["Black Lives Matter" one page form using Elm](docs/blacklivesmatter/form.html)
-  ** [Source Code](https://github.com/pshadow/elm-black-lives-matter)
+  * [Source Code](https://github.com/pshadow/elm-black-lives-matter)
