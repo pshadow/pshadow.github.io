@@ -4,7 +4,7 @@
     * [Source Code](https://github.com/pshadow/BurgerBuilder)
 
 ### Angular 2 project:
-* [Receipe book webapp using Angular 2 and Firebase](docs/recipebook/index.html)
+* [Receipe book webapp using Angular 2 and Firebase](https://pshadow.github.io/docs/recipebook)
     * [Source Code](https://github.com/pshadow/angular2-recipe-book)
 
 ### HTML 5 + CSS project:
